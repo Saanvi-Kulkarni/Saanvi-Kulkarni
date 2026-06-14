@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saanvi-Kulkarni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saanvi-Kulkarni&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
 # Hi, I'm Saanvi Kulkarni 👋
 
 **Data Analyst · Data Engineer · AI/ML Builder**
@@ -62,6 +57,9 @@ Currently targeting **Data Analyst, Business Analyst, and Data Engineer** roles 
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
+
+---
+
 ## Featured Projects
 
 ### 🛡️ Fraud & Risk Analytics
