@@ -10,11 +10,11 @@
 ![GenAI](https://img.shields.io/badge/GenAI-LLMs%20%7C%20RAG-blueviolet)
 ![BI](https://img.shields.io/badge/BI-Power%20BI%20%7C%20Tableau-orange)
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Data+Engineer+%7C+AI%2FML+Builder;Python+%7C+SQL+%7C+Azure+%7C+Databricks;LLMs+%7C+RAG+%7C+CNN+%7C+LSTM+%7C+Deep+Learning;Turning+data+into+decisions+that+matter." alt="Typing SVG" />
 </p>
+
+---
 
 ## About me
 
