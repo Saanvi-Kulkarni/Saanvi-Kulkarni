@@ -25,7 +25,9 @@ I'm particularly drawn to problems where data accuracy matters most: **fraud det
 Currently targeting **Data Analyst, Business Analyst, and Data Engineer** roles where I can work cross-functionally, tackle ambiguous problems with data, and communicate findings to both technical and non-technical stakeholders.
 
 🔭 **Currently working on:** Production-ready AI agents with LLMs + RAG · Medallion Architecture on Databricks · Anomaly detection framework for transactional data
+
 🎯 **Open to:** Data Analyst · Business Analyst · Data Scientist · Data Engineer · Trust & Safety Analytics
+
 📬 **Reach me:** [LinkedIn](https://www.linkedin.com/in/saanvi-kulkarni-698022236/) · [Email](saanvikulkarni2003@gmail.com)
 
 ---
@@ -119,8 +121,18 @@ Currently targeting **Data Analyst, Business Analyst, and Data Engineer** roles 
 `Python` `SQL` `MySQL` `MongoDB` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Streamlit`
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saanvi-Kulkarni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saanvi-Kulkarni&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Saanvi-Kulkarni&theme=tokyonight&hide_border=true" />
 </p>
+
+---
 
 *"The best analysis is the one that changes what a team does next — not just what they know."*
