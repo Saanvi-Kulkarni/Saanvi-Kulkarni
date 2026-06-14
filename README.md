@@ -122,5 +122,8 @@ Currently targeting **Data Analyst, Business Analyst, and Data Engineer** roles 
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 ---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Saanvi-Kulkarni&theme=tokyonight&hide_border=true" />
+</p>
 
 *"The best analysis is the one that changes what a team does next — not just what they know."*
